@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\bin\Debug\Text File Manipulation.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\obj\Debug\Text File Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\obj\Debug\Text_File_Manipulation.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\obj\Debug\Text File Manipulation.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\obj\Debug\Text_File_Manipulation.formMain.resources
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\bin\Debug\Text File Manipulation.exe
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\bin\Debug\Text File Manipulation.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\obj\Debug\Text File Manipulation.exe
+C:\Users\Andrew\Desktop\CIST 2341\Text File Manipulation\obj\Debug\Text File Manipulation.pdb

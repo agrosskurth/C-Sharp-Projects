@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\bin\Debug\Simulating Coin Toss.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\bin\Debug\Simulating Coin Toss.exe
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\bin\Debug\Simulating Coin Toss.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\obj\Debug\Simulating Coin Toss.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\obj\Debug\Simulating_Coin_Toss.formMain.resources
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\obj\Debug\Simulating_Coin_Toss.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\obj\Debug\Simulating Coin Toss.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\obj\Debug\Simulating Coin Toss.exe
+C:\Users\Andrew\Desktop\CIST 2341\Simulating Coin Toss\obj\Debug\Simulating Coin Toss.pdb

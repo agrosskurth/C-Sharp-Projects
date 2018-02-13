@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\bin\Debug\labTwoCalculator.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\bin\Debug\labTwoCalculator.exe
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\bin\Debug\labTwoCalculator.pdb
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\obj\Debug\labTwoCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\obj\Debug\labTwoCalculator.mainForm.resources
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\obj\Debug\labTwoCalculator.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\obj\Debug\labTwoCalculator.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\obj\Debug\labTwoCalculator.exe
+C:\Users\Andrew\Desktop\CIST 2341\labTwoCalculator\labTwoCalculator\obj\Debug\labTwoCalculator.pdb

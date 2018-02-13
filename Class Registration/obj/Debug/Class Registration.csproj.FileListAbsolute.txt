@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\bin\Debug\Class Registration.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\obj\Debug\Class Registration.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\obj\Debug\Class_Registration.Form1.resources
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\obj\Debug\Class_Registration.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\obj\Debug\Class Registration.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\bin\Debug\Class Registration.exe
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\bin\Debug\Class Registration.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\obj\Debug\Class Registration.exe
+C:\Users\Andrew\Desktop\CIST 2341\Class Registration\obj\Debug\Class Registration.pdb

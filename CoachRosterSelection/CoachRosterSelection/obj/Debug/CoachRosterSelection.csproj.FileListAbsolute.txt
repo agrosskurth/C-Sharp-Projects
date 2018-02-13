@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\bin\Debug\CoachRosterSelection.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\bin\Debug\CoachRosterSelection.exe
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\bin\Debug\CoachRosterSelection.pdb
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\obj\Debug\CoachRosterSelection.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\obj\Debug\CoachRosterSelection.Form1.resources
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\obj\Debug\CoachRosterSelection.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\obj\Debug\CoachRosterSelection.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\obj\Debug\CoachRosterSelection.exe
+C:\Users\Andrew\Desktop\CIST 2341\CoachRosterSelection\CoachRosterSelection\obj\Debug\CoachRosterSelection.pdb

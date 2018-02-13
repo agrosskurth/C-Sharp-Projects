@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\obj\Debug\Retail Price Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\obj\Debug\Retail Price Calculator.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\obj\Debug\Retail Price Calculator.exe
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\obj\Debug\Retail Price Calculator.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.FormMain.resources

@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\obj\Debug\TestProject.HelloWorld.resources
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Andrew\Desktop\CIST 2341\TestProject\TestProject\obj\Debug\TestProject.pdb

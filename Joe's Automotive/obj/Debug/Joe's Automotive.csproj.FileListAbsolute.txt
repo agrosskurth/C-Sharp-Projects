@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\obj\Debug\Joe's Automotive.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\obj\Debug\Joe_s_Automotive.FormMain.resources
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\obj\Debug\Joe_s_Automotive.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\bin\Debug\Joes Automotive.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\bin\Debug\Joes Automotive.exe
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\bin\Debug\Joes Automotive.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\obj\Debug\Joes Automotive.exe
+C:\Users\Andrew\Desktop\CIST 2341\Joe's Automotive\obj\Debug\Joes Automotive.pdb

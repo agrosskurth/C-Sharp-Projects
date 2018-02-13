@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\bin\Debug\Name Search.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\bin\Debug\Name Search.exe
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\bin\Debug\Name Search.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\obj\Debug\Name Search.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\obj\Debug\Name Search.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\obj\Debug\Name Search.exe
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\obj\Debug\Name Search.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Name Search\obj\Debug\Name_Search.FormMain.resources

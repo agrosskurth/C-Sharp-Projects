@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\obj\Debug\Software Sales.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.formMain.resources
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Software Sales\WindowsFormsApplication2\obj\Debug\Software Sales.csproj.GenerateResource.Cache

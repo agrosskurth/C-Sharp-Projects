@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\bin\Debug\Distance Converter.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\bin\Debug\Distance Converter.exe
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\bin\Debug\Distance Converter.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\obj\Debug\Distance Converter.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\obj\Debug\Distance_Converter.Form1.resources
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\obj\Debug\Distance_Converter.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\obj\Debug\Distance Converter.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\obj\Debug\Distance Converter.exe
+C:\Users\Andrew\Desktop\CIST 2341\Distance Converter\obj\Debug\Distance Converter.pdb

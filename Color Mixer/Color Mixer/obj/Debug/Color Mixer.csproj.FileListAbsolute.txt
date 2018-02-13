@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.formMain.resources
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\Andrew\Desktop\CIST 2341\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb

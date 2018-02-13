@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\Andrew\Desktop\CIST 2341\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb

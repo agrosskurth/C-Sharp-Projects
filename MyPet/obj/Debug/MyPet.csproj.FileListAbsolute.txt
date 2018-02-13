@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\bin\Debug\MyPet.exe.config
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\bin\Debug\MyPet.exe
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\bin\Debug\MyPet.pdb
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\obj\Debug\MyPet.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\obj\Debug\MyPet.Properties.Resources.resources
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\obj\Debug\MyPet.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\obj\Debug\MyPet.exe
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\obj\Debug\MyPet.pdb
+C:\Users\Andrew\Desktop\CIST 2341\MyPet\obj\Debug\MyPet.FormMain.resources
